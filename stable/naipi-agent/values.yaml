@@ -1,0 +1,14 @@
+image:
+  repository: iguaziodocker/naipi-agent
+  tag: 0.1
+  pullPolicy: IfNotPresent
+
+config: {}
+
+resources: {}
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}
